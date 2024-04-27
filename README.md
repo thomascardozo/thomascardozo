@@ -18,11 +18,11 @@ Aqui compartilho alguns dos meus projetos e códigos, além de algumas reflexõe
   - 📚 MBA em Administração Estratégica e Inteligência Competitiva (UNIARA).
   - 💼 Experiência em organizações de diferentes segmentos e portes nas áreas de desenvolvimento e gestão, entre as quais:
 <a href="https://www.bees.com/en"> <img src="https://www.bees.com/sites/g/files/wnfebl8851/files/BEES.COM/Style%20Guide/bees-logo-yellow.svg" height=15px alt="Bees Brasil"> 
- </a>  ,  <a href="https://compass.uol/pt/home/"> <img src="https://compass.uol/etc.clientlibs/compass/clientlibs/clientlib-react/resources/static/media/logo-light.21615d7f.svg" height=17px> 
- </a> , <a href="https://www.omnik.com.br/"> <img src="https://omnik.com.br/wp-content/uploads/2022/12/omnik-logo-nova.png" height=18px> 
- </a> , <a href="https://site.ctasmart.com.br/"> <img src="https://site.ctasmart.com.br/wp-content/themes/site-ctasmart/assets/images/brand.png" height=18px> 
- </a> , <a href="https://kbase.com.br/"> <img src="https://kbase.com.br/novo/wp-content/uploads/2018/04/logo.png" height=17px> 
- </a> , <a href="https://www.fab.mil.br/index.php"> <img src="https://www.fab.mil.br/images/sistema/geral/gladio_80px.png" height=17px> 
+ </a>  |  <a href="https://compass.uol/pt/home/"> <img src="https://compass.uol/etc.clientlibs/compass/clientlibs/clientlib-react/resources/static/media/logo-light.21615d7f.svg" height=17px> 
+ </a> | <a href="https://www.omnik.com.br/"> <img src="https://omnik.com.br/wp-content/uploads/2022/12/omnik-logo-nova.png" height=18px> 
+ </a> | <a href="https://site.ctasmart.com.br/"> <img src="https://site.ctasmart.com.br/wp-content/themes/site-ctasmart/assets/images/brand.png" height=18px> 
+ </a> | <a href="https://kbase.com.br/"> <img src="https://kbase.com.br/novo/wp-content/uploads/2018/04/logo.png" height=17px> 
+ </a> | <a href="https://www.fab.mil.br/index.php"> <img src="https://www.fab.mil.br/images/sistema/geral/gladio_80px.png" height=17px> 
  </a>, entre outras.
 
 #### ```Principais Ferramentas e Tecnologias```
