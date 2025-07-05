@@ -17,11 +17,11 @@ Compartilho aqui alguns dos meus projetos e códigos, além de alguns conteúdos
   - 🎓 Graduado em Análise e Desenvolvimento de Sistemas | Administração de Empresas pela UNISINOS.
   - 📚 MBA em Administração Estratégica e Inteligência Competitiva (UNIARA).
   - 💼 Experiência em organizações de diferentes segmentos e portes nas áreas de desenvolvimento e gestão, entre as quais:  
-      BEES/AB-Inbev  |  Compass-UOL  |  Omnik | CTA Smart Kbase | FAB
+      BEES/AB-Inbev  |  Compass-UOL  |  Omnik | CTA Smart |  Kbase | FAB
 
 #### ```Principais Ferramentas e Tecnologias utilizadas```
 
-  - Linguagens de Programação: Java (17, 21, 11), JavaScript.
+  - Linguagens de Programação: Java (17, 21, 11), JavaScript, Python.
   - Frameworks e Tecnologias: Spring, Hibernate, NodeJS, Quarkus.
   - Bancos de Dados: PostgreSQL, MySQL, MongoDB, SQL Server.
   - Mensageria: RabbitMQ, Kafka.
